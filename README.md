@@ -2,9 +2,7 @@
 
 ## opencv-tests
 >Tests using algorithms opencv for facial recognition with images:
- + Cats
- + Cars
- + People
- + Watches
- + Webcam
- 
+ + face detection (detection x recognition)
+ + detection of faces and eyes in images
+ + webcam face detection
+ + detection other items (cars, wall clocks and cats)
