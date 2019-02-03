@@ -1,4 +1,4 @@
-<img src="https://www.meshcookie.com/wp-content/uploads/2015/03/opencv_logo.png" />
+<img src="https://computationalmodelling.bitbucket.io/tools/opencv-feeg6003/images/opencvpython.png" />
 
 ## opencv-tests
 >Tests using algorithms opencv for facial recognition with images:
